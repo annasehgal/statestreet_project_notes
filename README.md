@@ -1,6 +1,6 @@
 # State Street 1C - Personal Project Notes
 
-Private notes documenting my individual work, technical decisions,
+Not so private notes documenting my individual work, technical decisions,
 lessons learned, blockers, and presentation preparation for the
 Break Through Tech AI Studio State Street 1C project.
 
