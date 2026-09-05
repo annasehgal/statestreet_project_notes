@@ -1,0 +1,10 @@
+title: "State Street 1C — Personal Project Notes"
+description: "Personal engineering notes documenting my work, technical decisions, experiments, and lessons learned while building the Break Through Tech AI Studio State Street 1C project."
+theme: minima
+
+header_pages:
+  - contributions.md
+  - timeline.md
+  - presentation-notes.md
+  - interview-notes.md
+  - questions-and-blockers.md
