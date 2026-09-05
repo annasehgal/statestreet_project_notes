@@ -1,5 +1,8 @@
 title: "State Street 1C — Personal Project Notes"
 description: "Personal engineering notes documenting my work, technical decisions, experiments, and lessons learned while building the Break Through Tech AI Studio State Street 1C project."
+
+repository: annasehgal/statestreet_project_notes
+
 theme: minima
 
 header_pages:
